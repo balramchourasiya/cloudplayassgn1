@@ -27,4 +27,10 @@ A basic web application that allows users to add products to a shopping cart usi
 | P003       | Orange | ₹20   |
 
 
-<p> live link : https://cloudplayassgn1.vercel.app/ </p>
+<p> live link : </p>
+
+![Screenshot 2025-06-27 182902](https://github.com/user-attachments/assets/bd3468b4-9e7f-45f3-8c50-ddd5ee5525a2)
+
+![Screenshot 2025-06-29 001252](https://github.com/user-attachments/assets/01351280-abaf-42c0-96b3-55028dc25c28)
+
+![Screenshot 2025-06-27 182902](https://github.com/user-attachments/assets/bfd02646-57bc-4b64-9d0e-38b87234db29)
